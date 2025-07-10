@@ -31,6 +31,7 @@ pip install -r requirements.txt
 ### 2. Set Up Redis
 
 Ensure Redis is running locally on port 6379 (default).
+Encure that every secret information properly stored in .env file.
 
 **On macOS (with Homebrew):**
 ```sh
